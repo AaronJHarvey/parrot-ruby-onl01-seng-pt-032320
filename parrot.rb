@@ -1,6 +1,6 @@
 def parrot (call="Squawk!")
   puts "#{call}"
-  "Squawk!"
+  "#{call}"
 end
 
 parrot("Pretty bird!")
